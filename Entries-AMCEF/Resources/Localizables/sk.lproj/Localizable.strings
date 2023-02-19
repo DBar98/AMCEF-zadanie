@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Entries-AMCEF
+
+  Created by Dávid Baľak on 19/02/2023.
+  
+*/
+
+"Error" = "Chyba";
+"Try again" = "Skúsiť znova";
+"Something went wrong" = "Niečo sa pokazilo";
+"No data found" = "Nenašli sa žiadne dáta";
+"Refresh" = "Obnoviť";
+"Entries" = "Vstupy";
+"Unable to open without internet connection" = "Nie je možné otvoriť bez prístupu na internet";
+"Internal server error" = "Chyba servera";
+"OK" = "OK";

@@ -103,6 +103,17 @@
 			path = Localizables;
 			sourceTree = "<group>";
 		};
+		781B303129A2A2C300756A8A /* DesignSystem */ = {
+			isa = PBXGroup;
+			children = (
+				7822D21629A031B900A117A6 /* CustomError.swift */,
+				7822D22529A0E8FD00A117A6 /* ViewState.swift */,
+				7822D22D29A1065800A117A6 /* ButtonStyle.swift */,
+				7822D23629A133BB00A117A6 /* RedactedModifier.swift */,
+			);
+			path = DesignSystem;
+			sourceTree = "<group>";
+		};
 		7822D1F729A015B100A117A6 = {
 			isa = PBXGroup;
 			children = (
@@ -124,6 +135,7 @@
 		7822D20229A015B100A117A6 /* Entries-AMCEF */ = {
 			isa = PBXGroup;
 			children = (
+				781B303129A2A2C300756A8A /* DesignSystem */,
 				7822D24729A1573F00A117A6 /* Responses */,
 				7822D23829A1348900A117A6 /* Extensions */,
 				7822D21529A031A800A117A6 /* Resources */,
@@ -168,10 +180,6 @@
 			children = (
 				781B302E29A29D9100756A8A /* Localizables */,
 				7822D23E29A1562700A117A6 /* CoreData */,
-				7822D21629A031B900A117A6 /* CustomError.swift */,
-				7822D22529A0E8FD00A117A6 /* ViewState.swift */,
-				7822D22D29A1065800A117A6 /* ButtonStyle.swift */,
-				7822D23629A133BB00A117A6 /* RedactedModifier.swift */,
 				781B302529A298AE00756A8A /* Symbols.swift */,
 			);
 			path = Resources;
